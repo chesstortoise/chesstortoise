@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey
+
+I'm chesstortoise, a hobby chess player and data analyst. Interested in opening theory, engine analysis, and open-source chess tools.
+
+Currently exploring underrepresented opening lines
 
 <!--
 **chesstortoise/chesstortoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
